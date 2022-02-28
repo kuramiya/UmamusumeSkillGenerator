@@ -1,0 +1,2 @@
+# UmamusumeSkillGenerator
+ウマ娘のスキル画像ジェネレーター
