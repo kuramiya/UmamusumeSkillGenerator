@@ -41,4 +41,10 @@ https://getbootstrap.jp/docs/5.0/components/card/
 ## Vue.js
 https://jp.vuejs.org/v2/guide/
 
+## ウェブフォント
+### Google Fonts
+https://fonts.google.com/?subset=japanese
+
+#### 使い方
+https://fonts.google.com/knowledge/using_type/using_web_fonts
 
